@@ -6,7 +6,7 @@
   "repository": "https://github.com/superjose/amplify-react-monorepo.git",
   "author": "Jose Asilis <superjose_49@hotmail.com>",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "workspaces": [
     "./app",
     "./home",
@@ -27,6 +27,7 @@
     "@storybook/addon-links": "^6.2.9",
     "@storybook/node-logger": "^6.2.9",
     "@storybook/preset-create-react-app": "^3.1.7",
-    "@storybook/react": "^6.2.9"
+    "@storybook/react": "^6.2.9",
+    "cross-env": "^7.0.3"
   }
 }
