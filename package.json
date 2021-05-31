@@ -1,0 +1,10 @@
+{
+  "name": "amplify-react-monorepo",
+  "version": "1.0.0",
+  "description": "A Create-React-App monorepo using yarn workspaces",
+  "main": "index.js",
+  "repository": "https://github.com/superjose/amplify-react-monorepo.git",
+  "author": "Jose Asilis <superjose_49@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
